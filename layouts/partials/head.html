@@ -145,3 +145,6 @@
 {{- partial "math.html" .}}
 {{ end }} 
 
+{{ if .Site.Params.googleSiteVerification }}
+<meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerification }}" />
+{{ end }}
