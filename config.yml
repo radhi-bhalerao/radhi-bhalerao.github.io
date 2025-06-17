@@ -1,4 +1,4 @@
-baseURL: "http://radhi-bhalerao.github.io/hugo-website/" 
+baseURL: "http://radhi-bhalerao.github.io/" 
 title: Radhika Bhalerao
 paginate: 20
 theme: PaperMod
@@ -79,6 +79,7 @@ params:
             #  url: archive/
             #- name: Blog
              # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+    googleSiteVerification: "7usLEhq1OLkG24fTe761ZtyI_0dGjd9JbojZrbmzoNU"
 
     socialIcons:
         #- name: CV
