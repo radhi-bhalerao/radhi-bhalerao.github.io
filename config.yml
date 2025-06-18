@@ -57,7 +57,7 @@ params:
     profileMode:
           enabled: true
           title: Radhika Bhalerao
-          subtitle: " I am a PhD student in the Computational Precision Health program joint between University of California Berkeley and University of California San Francisco (UCSF). Previously, I completed my Masters in Biomedical Imaging from UCSF advised by Andreas Rauschecker. Before that I spent a few wonderful years working as a Data Science Research Specialist at UCSF, applying AI to brain imaging in the BRAIN and Morrison Labs. Outside of research, I sing Hindustani Classical music and am a music nerd."
+          subtitle: " I am a PhD student in the Computational Precision Health program joint between University of California Berkeley and University of California San Francisco (UCSF). Previously, I completed my Masters in Biomedical Imaging from UCSF. Before that I spent a few wonderful years working as a Data Science Research Specialist at UCSF, applying AI to brain imaging in the BRAIN and Morrison Labs. Outside of research, I sing and play violin in the Hindustani Classical music style and am a music nerd."
           imageUrl: "profile-pic.jpg"
           imageWidth: 155
           imageHeight: 160
